@@ -11,7 +11,9 @@
 
 无需自行编译`Java`文件和开启`HTTP`服务，一切自动
 
-只要一行：`java -jar LDAPKit.jar notepad.exe`
+只要一行：`java -jar LDAPKit.jar [命令]`
+
+例如：`java -jar LDAPKit.jar notepad.exe`
 
 ```text
     ___  ________   ________  ___  ___  __    ___  _________   
@@ -31,6 +33,8 @@
 ```
 
 然后......
+
+[下载地址](https://github.com/EmYiQing/LDAPKit/releases/download/1.0/LDAPKit.jar)
 
 ## 免责申明
 
