@@ -11,7 +11,7 @@
 
 无需自行编译`Java`文件和开启`HTTP`服务，一切自动
 
-只要一行：`java -jar LDAPKit.jar calc.exe`
+只要一行：`java -jar LDAPKit.jar notepad.exe`
 
 ```text
     ___  ________   ________  ___  ___  __    ___  _________   
