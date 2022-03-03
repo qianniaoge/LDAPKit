@@ -34,7 +34,7 @@
 
 然后......
 
-[下载地址](https://github.com/EmYiQing/LDAPKit/releases/download/1.0/LDAPKit.jar)
+[下载地址](https://github.com/qianniaoge/LDAPKit/releases/tag/1.0)
 
 ## 免责申明
 
